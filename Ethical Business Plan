@@ -14,7 +14,7 @@ How can we make carbon capture technology accessible to large-scale construction
 What ethical considerations arise from storing and managing environmental data?
 How can Gaia Industries help reshape urban development while maintaining high ethical standards?
 
-C. Strategy with Ethical Impacts and Ethical Safeguards
+Item 1.C.1 Strategy with Ethical Impacts and Ethical Safeguards
 C.1: OKRs (Key Milestones/Checkpoints)
 OKR 1: Integrate Gaia Industries’ carbon-capturing materials into 100 construction projects across 3 major U.S. cities by 2026.
 Metric: Number of projects using our materials, tracked quarterly.
@@ -23,17 +23,17 @@ Metric: Accuracy rate determined by the data collected from cloud-based systems 
 OKR 3: Achieve 80% user satisfaction based on a survey of homebuyers and renters living in buildings constructed with Gaia materials.
 Metric: Customer satisfaction score from post-construction surveys.
 
-C.2: Metrics for Success
+Item 1.C.2: Metrics for Success
 OKR 1 Metric: Success will be measured by tracking how many construction projects adopt our technology, using quarterly reports from our sales and construction teams. This will be evaluated based on contracts signed, material delivered, and the project's completion.
 OKR 2 Metric: Accuracy of carbon data will be measured using automated reports generated from cloud storage systems. Success is defined as at least 90% accuracy in carbon tracking compared to pre-construction estimates.
 OKR 3 Metric: User satisfaction will be evaluated using surveys distributed to homeowners and tenants, measured on a 1-100% scale. Success is defined as an average score of 80% or higher.
 
-C.3: Ethical Impacts/Issues
+Item 1.C.3: Ethical Impacts/Issues
 OKR 1 Ethical Issue: Expanding into multiple cities raises the ethical issue of environmental justice. There is a risk that eco-friendly housing could become a privilege for wealthier areas, excluding low-income communities.
 OKR 2 Ethical Issue: The collection and storage of environmental data raise privacy concerns. If carbon capture data is accessed by unauthorized third parties, it could be misused for profit-driven purposes or influence political decisions that might affect funding for environmental initiatives.
 OKR 3 Ethical Issue: The satisfaction survey could face bias, as respondents who can afford eco-friendly homes may not reflect the wider population, which could skew the perceived success of the product.
 
-C.4: Ethical Safeguards
+Item 1.C.4: Ethical Safeguards
 OKR 1 Safeguard: Gaia Industries will partner with non-profits and government initiatives focused on affordable housing to ensure that our products are accessible to low-income communities as well. Additionally, we will implement a sliding scale pricing model for environmentally friendly projects in underprivileged areas.
 OKR 2 Safeguard: We will employ AES-256 encryption and multi-factor authentication for all data storage, ensuring that carbon capture data is secure. Access to this data will be restricted to authorized personnel only, and we will adhere to compliance regulations like GDPR and CCPA to safeguard customer privacy.
 OKR 3 Safeguard: To avoid survey bias, we will collect feedback from a diverse group of homeowners and renters, ensuring representation from different economic backgrounds, locations, and experiences. We will also use random sampling to reduce selection bias.
