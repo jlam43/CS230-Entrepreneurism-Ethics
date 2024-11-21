@@ -1,10 +1,12 @@
-# Gaia Industries
+# Gaia Industries 🚧 ♻
 ## Table of Contents
-1. [Ethical Business Plan](#ethical-business-plan)
-2. [Cultural Policy](#cultural-policy)
-3. [Ethics Policy](#ethics-policy)
+1. [Ethical Business Plan 📈](#ethical-business-plan)
+2. [Cultural Policy 🫱🏽‍🫲🏾](#cultural-policy)
+3. [Ethics Policy 🌎](#ethics-policy)
 4. [YouTube Presentation](#youtube-presentation)
 5. [References](#references)
+
+
 ## Ethical Business Plan
 ### A. Company Name 
 Gaia Industries is a green tech startup that specializes in creating carbon-capturing building materials made from recycled and organic waste. By transforming waste into sustainable construction materials, Gaia Industries aims to revolutionize the construction industry and significantly reduce its carbon footprint while promoting elimination of waste and pollution. These materials are designed to store carbon and can be used in buildings, infrastructure, and homes.
@@ -45,7 +47,22 @@ OKR 3 Ethical Issue: The satisfaction survey could face bias, as respondents who
 OKR 1 Safeguard: Gaia Industries will partner with non-profits and government initiatives focused on affordable housing to ensure that our products are accessible to low-income communities as well. Additionally, we will implement a sliding scale pricing model for environmentally friendly projects in underprivileged areas.
 OKR 2 Safeguard: We will employ AES-256 encryption and multi-factor authentication for all data storage, ensuring that carbon capture data is secure. Access to this data will be restricted to authorized personnel only, and we will adhere to compliance regulations like GDPR and CCPA to safeguard customer privacy.
 OKR 3 Safeguard: To avoid survey bias, we will collect feedback from a diverse group of homeowners and renters, ensuring representation from different economic backgrounds, locations, and experiences. We will also use random sampling to reduce selection bias.
+
+
 ## Cultural Policy
+### A. Core Values
+The core values of Gaia Industries are based around sustainability, innovation, transparency, and inclusivity. Gaia Industries' goal is to be considered as one of the leaders in green technology, by transforming the construction industry with both ethical and eco-friendly solutions. The foundation of our company is sustainability, and with this in mind, we're driven to reduce carbon emmissions and turn waste back into useful materials. All of our business practices follow the theme of transparency, from data handling to environmental impact assesments, everything will be openly accessible to our stakeholders. Our community outreach is guided by inclusivity, ensuring that our sustainable products are available to all communities, not just high income and middle class, we are focused on ensuring coverage in underrepresented and low-income communties.
+
+### B. Motivation
+Gaia Industries' motivation comes from our love for our planet and the hope that we will have a sustainable future. We are driven by our goal of reducing the harm we as humans do to our environment, and transforming urban development through solutions that fight climate change. As a company, our biggest fear is what is happening right now, letting environmental harm continue unchecked. We also fear contributing to the inequality in the eco-friendly space that keeps low income communities from having access to environmentally concious resources. We strive to ensure that our products are affordable and accessible to all. These fears challenge us to continue to innovate while working to solve the global climate crisis. By keeping in line with our mission, Gaia Industries hopes to inspire everyone to take action towards making our planet healthier.
+
+### C. Summary
+1. Sustainability-driven
+2. innovation
+3. transparency
+4. inclusivity
+
+
 ## Ethics Policy
 ## YouTube Presentation
 ## References
