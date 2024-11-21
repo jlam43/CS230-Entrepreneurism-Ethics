@@ -3,8 +3,8 @@
 1. [Ethical Business Plan 📈](#ethical-business-plan)
 2. [Cultural Policy 🫱🏽‍🫲🏾](#cultural-policy)
 3. [Ethics Policy 🌎](#ethics-policy)
-4. [YouTube Presentation](#youtube-presentation)
-5. [References](#references)
+4. [YouTube Presentation 📹](#youtube-presentation)
+5. [References 📎](#references)
 
 
 ## Ethical Business Plan
